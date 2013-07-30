@@ -1,1 +1,5 @@
+.ruby-version
+.DS_Store
+.rbenv
 _site/
+Gemfile.lock
