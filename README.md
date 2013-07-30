@@ -11,7 +11,7 @@ Sample project showing how to use a jekyll site with static submodule to build p
 
 To start:
 1. Get the code
-    `git clone --recursive https://github.com/stevenalexander/static-resource-example.git`
+    `git clone --recursive https://github.com/stevenalexander/jekyll-prototype-site.git`
 2. Get dependencies
 	`bundle install`
 3. Start Jekyll
